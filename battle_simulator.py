@@ -11,7 +11,7 @@ PLAYER_MAX_HP = 40                    # 玩家最大生命值
 PLAYER_LOW_HP_THRESHOLD = 10          # 玩家低血量阈值（优先防御）
 
 # 怪物属性
-MONSTER_HP = 30                       # 怪物生命值
+MONSTER_HP = 13                       # 怪物生命值
 MONSTER_ACTION_COUNT = 3              # 怪物行动种类数量
 MONSTER_LIGHT_ATTACK_DAMAGE = 3       # 怪物轻攻击伤害
 MONSTER_HEAVY_ATTACK_DAMAGE = 7       # 怪物重攻击伤害
